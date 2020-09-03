@@ -16,11 +16,11 @@ for line in handle:
   linelist = line.split()
   if linelist[0] == 'From':
     d[linelist[1]] = d.get(linelist[1], 0) + 1
-largest = 0
-for key in d:
-  if d[key] > largest:
-    largest = d[key]
-for key in d:
-  if d[key] == largest:
-    print(key, d[key])
+largestkey = None
+largestvalue = 0
+for key, value in d.items():
+  if value > largestvalue:
+    largestkey = key
+    largestvalue = value
+print(largestkey, largestvalue)
 
