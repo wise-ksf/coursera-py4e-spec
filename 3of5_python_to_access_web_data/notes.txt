@@ -1,0 +1,18 @@
+Notes on Choice of Text Editor
+
+We recommend that you use the Atom text editor for this course. We prefer it because it works the same on Windows, Macintosh, and Linux. All of the course demonstration videos use Atom. You can download and install it from:
+
+https://atom.io/
+
+If you do use Atom, be aware that user input is not supported when scripts are run from the editor rather than the command line.
+
+If you already have a text editor like TextWrangler/SublimeText on the Macintosh and NotePad++ on Windows they can be used for this course. 
+
+Ways to take screenshots:
+
+Grap.app
+Preview.app: File->Take Screenshot
+
+You can also use Command-Shift-4 and then select an area of the screen to take a screen shot.
+
+
