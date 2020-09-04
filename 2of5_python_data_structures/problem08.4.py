@@ -2,7 +2,15 @@
 
 # You can download the sample data at http://www.py4e.com/code3/romeo.txt
 
-# problem stem
+# problem stem:
+#fname = input("Enter file name: ")
+#fh = open(fname)
+#lst = list()
+#for line in fh:
+#print(line.rstrip())
+
+
+# solution
 fname = input("Enter file name: ")
 fh = open(fname)
 lst = list()

@@ -8,6 +8,16 @@
 
 # problem stem:
 # Use the file name mbox-short.txt as the file name
+#fname = input("Enter file name: ")
+#fh = open(fname)
+#for line in fh:
+#    if not line.startswith("X-DSPAM-Confidence:") : continue
+#    print(line)
+#print("Done")
+
+
+# solution
+# Use the file name mbox-short.txt as the file name
 xdspamlinecounter = 0
 xdspamconfidence = 0
 fname = input("Enter file name: ")
