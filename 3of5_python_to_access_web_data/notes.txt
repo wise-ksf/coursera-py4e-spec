@@ -1,3 +1,5 @@
+Chapter 10
+
 Notes on Choice of Text Editor
 
 We recommend that you use the Atom text editor for this course. We prefer it because it works the same on Windows, Macintosh, and Linux. All of the course demonstration videos use Atom. You can download and install it from:
@@ -14,5 +16,36 @@ Grap.app
 Preview.app: File->Take Screenshot
 
 You can also use Command-Shift-4 and then select an area of the screen to take a screen shot.
+
+Chapter 11
+
+Regular Expressions
+
+Chapter 12
+
+If You Want to Learn More
+
+This chapter covers networking at a very high level. If you want to learn more, there is both a free book and a Coursera course that I would recommend:
+
+    Introduction to Networking (free textbook)
+http://www.net-intro.com/
+    Internet History, Technology, and Security (Coursera Course)
+https://www.coursera.org/learn/internet-history
+
+Neither of these is essential for this course or the Python Specialization as we quickly move from how the network works to how to write Python code using the urllib library - which makes the very complex Internet protocols exceedingly simple.
+
+Notes Regarding the Use of BeautifulSoup
+
+The sample code for this course and textbook examples use BeautifulSoup to parse HTML. The examples in the textbook and in this class work with BeautifulSoup 3.
+
+Using BeautifulSoup 3
+
+If you want use our samples "as is", download our Python 3 version of BeautifulSoup 3 from
+
+http://www.py4e.com/code3/bs4.zip
+
+You must unzip this into a "bs4" folder and have that folder as a sub-folder of the folder where you put our sample code like:
+
+http://www.py4e.com/code3/urllinks.py
 
 
