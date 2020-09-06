@@ -1,0 +1,40 @@
+Peer Graded Assignment - Instructor Input
+
+To get a grade for peer-graded assignments in this course, you must submit your assignment, then peer grade several other student submissions and then the course teaching staff will review your assignment and complete the grading of your assignment. It may take several days for the teaching staff to grade your assignment so that you receive full credit.
+
+The instructor graded portion of the assignment is 3/10 points of the grade on the peer graded assignment (i.e. 30% of your grade). Since you must achieve 80% to complete the assignment within Coursera, you assignment will have a maximum of 70% and won’t be marked “complete” until the teaching staff completes their grading.
+
+The teaching staff will review the comments from your peers and review your submission before awarding a grade. If you have made a mistake in your submission, the teaching staff can send you a note and reset your assignment to allow for resubmission.
+
+If the teaching staff detects a violation of the Coursera Honor code that says that you can only submit your own work, it may result in permanent failure of this course or deactivation of your Coursera account according to the rules of the Coursera honor code.
+
+If you have questions or concerns about the grading of these assignments, please let us know in the discussion forums.
+
+
+
+======
+
+Databases and Visualization (peer-graded)
+
+In this assignment you will use the Google GeoCoding API to retrieve data and then use Google Maps to visualize the data.
+This course uses a third-party tool, Databases and Visualization (peer-graded), to enhance your learning experience. The tool will reference basic information like your name, email, and Coursera ID.
+Honor Code Agreement
+I, Kevin Ford, understand that submitting work that isn’t my own may result in permanent failure of this course or deactivation of my Coursera account. 
+
+=======
+
+Welcome Kevin Ford from Using Databases with Python
+
+Retrieving GEOData
+
+Download the code from http://www.py4e.com/code3/geodata.zip - then unzip the file and edit where.data to add an address nearby where you live - don't reveal where you live. Then run the geoload.py to lookup all of the entries in where.data (including the new one) and produce the geodata.sqlite. Then run geodump.py to read the database and produce where.js. You can run the programs and then scroll back to take your screen shots when the program finishes. Then open where.html to visualize the map. Take screen shots as described below. Make sure that your added location shows in all three of your screen shots.
+
+This is a relatively simple assignment. Don't take off points for little mistakes. If they seem to have done the assignment give them full credit. Feel free to make suggestions if there are small mistakes. Please keep your comments positive and useful. If you do not take grading seriously, the instructors may delete your response and you will lose points.
+
+Please Upload Your Submission:
+
+==========
+
+Southern Maine Community College (in South Portland, Maine, USA) is near where I live in the state of Maine, USA. In my first screenshot (in the file named problem16.1a.png), I show what I saw immediately upon opening where.html in a browser (including a warning from Google Maps) which is a map of the whole world. In my second screenshot (problem16.1b.png) I show what happened after I clicked the "Ok" button and zoomed in upon the region of New England in the USA. In my third screenshot (problem16.1c.png) I zoomed in enough to show only two marker pins, the one close to where I live which is in South Portland, Maine, USA and the nearest one south of me too (though only part of the southern point). My added location shows in all three of my screen shots.
+
+
