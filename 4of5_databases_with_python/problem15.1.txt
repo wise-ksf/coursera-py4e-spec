@@ -1,3 +1,4 @@
+https://www.py4e.com/tools/sql-intro/?PHPSESSID=5fcb2839a72cd604ff5a90f337dedc3b
 Welcome Kevin Ford from Using Databases with Python
 
 To get credit for this assignment, perform the instructions below and enter the code you get here:

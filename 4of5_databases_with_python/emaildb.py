@@ -14,6 +14,8 @@ fh = open(fname)
 for line in fh:
     if not line.startswith('From: '):
         continue
+    # this next line required significant study on diff between re.search().group(0 or 1)
+    # and re.findall() et. al.
     org = re.search('@(\S+)', line).group(1)
     cur.execute('SELECT count FROM Counts WHERE org = ? ', (org,))
     row = cur.fetchone()
